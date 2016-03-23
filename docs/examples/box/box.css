@@ -1,0 +1,18 @@
+.u-item-s {
+  height: 40px;
+  border-bottom: 1px solid #ddd;
+}
+
+.u-item-b {
+  height: 60px;
+  border-bottom: 1px solid #ddd;
+}
+
+.u-selected {
+  background-color: #ddd;
+}
+
+.u-pay {
+  background-color: #669900;
+  color: #fff;
+}
